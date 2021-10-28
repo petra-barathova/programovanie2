@@ -1,2 +1,2 @@
 # programovanie2
-úloha číslo 2
+2.úloha-čísla
